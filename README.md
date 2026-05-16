@@ -42,7 +42,7 @@ Created visualizations in Python including:
 ---
 
 ## Key Findings
-- Arthritis was the most common condtion
+- Arthritis was the most common condition
 - Patients aged 45-60 the highest proportion of long stay hospital stays 
 - Emergency admissions represented a significant share of total admissions 
 
